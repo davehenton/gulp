@@ -17,7 +17,7 @@ engines:
   brakeman:
     enabled: false
   bundler-audit:
-    enabled: true
+    enabled: false
   golint:
     enabled: false
   gofmt:
