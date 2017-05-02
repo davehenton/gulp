@@ -15,7 +15,7 @@ engines:
     config:
       ignore_warnings: true
   brakeman:
-    enabled: true
+    enabled: false
   bundler-audit:
     enabled: true
   golint:
